@@ -1,0 +1,7 @@
+<img
+src="urc"
+height="100x"
+floders flies cant start with numbers
+have to write commit message BEFORE we turn it in
+src: used to add pics and vid links tp elements
+href: used to connect 
