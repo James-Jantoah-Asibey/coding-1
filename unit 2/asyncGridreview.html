@@ -1,15 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>HTML Tutorial</title>
-</head>
-<body>
+<style>
+    .divRules{
+        background-color: crimson;
+        height: 25px
+        width: 25px
+        margin: 10px
+
+    }
+
+
+
+
+
+
 .item1 { grid-area: header; }
 .item2 { grid-area: menu; }
 .item3 { grid-area: main; }
 .item4 { grid-area: right; }
 .item5 { grid-area: footer; }
-
+.item6 { grid-area: ;}
 .grid-container {
   display: grid;
   grid-template-areas:
@@ -28,13 +39,27 @@
   font-size: 30px;
 }
 </style>
+</head>
+
+<body>
 
 
+<div class="grid-container">
+  <div class="item1">nav</div>
+  <div class="item2">advertisment</div>
+  <div class="item3">Main</div>  
+  <div class="item4">Right</div>
+  <div class="item5">Footer</div>
+  <div class="item6">option 1</div>
+  <div class="item7">option 2</div>
 
-
-
-
+</div>
 
 </body>
-
 </html>
+
+
+
+
+
+
