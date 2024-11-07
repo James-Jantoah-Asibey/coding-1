@@ -33,4 +33,23 @@ valB=20
 
 print(valA,valB)
 
+# python variable are just contaoners for data
+
+email= 'iank123@gmail.com'#string data type
+checkingAccount= 20000.43 # flat data type
+didYouGetFluShot= True # boolean data type
+userLogin_passwordReset_premiumMember=''
+userpassword= 
+discount= .25
+
+# camel case = when naming variable 
+# every word afetr the first word is capitalized 
+loginName=''
+ResetPasswordCode=''
+
+# Snake Case = when naming a variable, every word after
+# the first word is spaced ot with an underscore.
+loginName=''
+ResetPasswordCode=''
+
 
