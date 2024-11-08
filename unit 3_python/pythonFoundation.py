@@ -49,7 +49,7 @@ ResetPasswordCode=''
 
 # Snake Case = when naming a variable, every word after
 # the first word is spaced ot with an underscore.
-loginName=''
+login_name=''
 ResetPasswordCode=''
 
 
