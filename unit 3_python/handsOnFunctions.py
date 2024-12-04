@@ -37,3 +37,15 @@ def verifyAge(age):
         print('Sorry, you need am adult to get this game.')   
 
 verifyAge(18)  
+
+
+# Activity
+
+def hourssToMinutes(hour):
+    print(hour* 60)
+
+# argument- real data inside of the function call
+hourssToMinutes(3)    
+
+# conditional statemnt
+# IF/ else
