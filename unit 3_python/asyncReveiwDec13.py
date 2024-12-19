@@ -11,12 +11,12 @@ def shoppingDiscount(membership,itemName, itemPrice):
         finalAmout = itemPrice -discountAmount
         print('congrats supershopper! you will get 10 percent off your item')
         print(finalAmount)
-    elif membership== 'megaShopper'
+    elif membership== 'megaShopper':
         print('you will get 15 percent off your item')
         discountAmount = itemPrice * 0.15
         finalAmout = itemPrice -discountAmount
         print(finalAmount)
-    elif membership== 'ultraShopper'
+    elif membership== 'ultraShopper':
         print('you will get 20 percent off our item')
         discountAmount = itemPrice * 0.2
         finalAmout = itemPrice -discountAmount
@@ -24,4 +24,4 @@ def shoppingDiscount(membership,itemName, itemPrice):
     else:
         print('you do not have any membership benefits')
 
-ahoppinggDiscount('superShopper',100)            
+shoppingDiscount('superShopper',100)            
