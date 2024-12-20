@@ -6,9 +6,13 @@ def holidayPlanner(date):
     elif date== 1/7/2025:
        print('I am going back to school')
     elif date== 12/25/2024:
-       print('There is nothing planned for this day')
+       print('I am going to go to stephens house')
     elif date== 1/1/2025:
-       print('There is nothing planned for this day')
-holidayPlanner(12/25/2024)
+       print('I am going to my parents')
+    else:
+       print("sorry there is nothing planned")
+         
+   
+holidayPlanner(12/24/2024)
 
        
