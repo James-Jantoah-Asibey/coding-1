@@ -6,19 +6,19 @@ print('A boolean data type is when you run a condition in an if statement, Pytho
 print(' The oberator type i would use would be idneity operators to veriify if the person is old enough to puchsse te game')
 print('i would use the Arithmetic operators because we are dealing wiht numbers')
 def passwordLength(length):
-    if length== +10:
+    if length== 'longer then 10 characters':
        print('sorry, password is to long')
-    elif length== -10:
+    elif length== 'less then 10 characrers':
         print('Sorry, password is to short')
-    elif length== 10:
+    elif length== 'equal to 10 characters':
         print('congrats! password accpeted')
 
 
-passwordLength()   
+passwordLength(123456) 
 
 
 
+def incomeTax(incomeAmount,tax, stateTax ):
+    if== 
 
-
-            
 
