@@ -7,7 +7,7 @@ print(' The oberator type i would use would be idneity operators to veriify if t
 print('i would use the Arithmetic operators because we are dealing wiht numbers')
 def passwordLength(length):
     if length== 'longer then 10 characters':
-       print('sorry, password is to long')
+       print('sorry, password is to long') 
     elif length== 'less then 10 characrers':
         print('Sorry, password is to short')
     elif length== 'equal to 10 characters':
