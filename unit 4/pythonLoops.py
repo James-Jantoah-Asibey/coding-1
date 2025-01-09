@@ -12,7 +12,7 @@ def titleBySchoolYear(year):
         print('im a sophmore')
     elif year == 3:
         print('ima a junior')
-    elif year == 4:
+    elif year == 4:                                                                                                                                                                                                                       
         print('ima a senior')
     elif year == 5 or year ==6:
         print('Youre in gradg school getting your masters degree') 
@@ -21,4 +21,15 @@ def titleBySchoolYear(year):
     else: 
         print(' error: didnt recognize input') 
 
-titleBySchoolYear(7)                       
+#titleBySchoolYear(7)     
+
+# lists are a datatype for collecting and grouping together
+# other pieces of data
+
+# we create lists using sqaure brackets []
+
+grocery = ['greens', 'apples', 'water']
+tiktok = ['username', 'dateOFBirth', 50, 20, 20, 100, True]
+
+educationStatus= ['freshman', 'sophmore', 'junior', 'senior']
+print(educationStatus[2])
