@@ -1,6 +1,8 @@
-frozenFoodIsle = ['icecream', 'cake', 'popsicles']
-internationalFoodIsle = ['samosas', 'pizza', 'sushi']
-produce = ['peppers', 'carrots', 'potatos']
+frozenFoodIsle = ['icecream', 'cake', 'popsicles', 'icecream sandwhich', 'frozen fries']
+internationalFoodIsle = ['samosas', 'pizza', 'sushi', 'noodles', 'curry']
+produce = ['peppers', 'carrots', 'potatos', 'onios', 'lettuce',]
 
-frozenFoodIsle = ['frozen fruit', 'icecream sandwitch', 'frozen fries']
-internationalFoodIsle =m[]
+
+
+
+
