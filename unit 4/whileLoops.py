@@ -8,9 +8,9 @@ x = 3
 y = 'ian'
 #while x == 2:
 #while y == 'ian':
-#while 10 < 1:
+while 10 < 1:
     
- #   print('this text will repeat forever')
+    print('this text will repeat forever')
 
 
 #expiration= input('what is todays date?:')    
