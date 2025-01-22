@@ -1,7 +1,7 @@
 # Question 1
 
 campingSupplies = ['tent','sleeping bag','flash light','camping knife']
-campingSupplies.sort()
+campingSupplies.reverse()
 
 print(campingSupplies)
 
