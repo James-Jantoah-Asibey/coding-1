@@ -11,4 +11,5 @@ grades =[80,90,70,70,100,60]
 for x in grades:
     if x <= 70:
         grades.remove(x)
+        continue
     print(x)    
