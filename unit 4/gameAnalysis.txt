@@ -1,0 +1,9 @@
+It was a puzzle game
+
+The player pulls the ball back to put power in It
+
+Their are moving obsticles along with the balls movement
+
+The player is trying to get the ball to the goal wihtout hitting an obsticle that will send the ball back
+
+what amkes this game interisting is that some of the obstickes mive and you can use them to propel yourself to the goal
